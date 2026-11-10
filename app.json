@@ -8,7 +8,8 @@
     "scheme": "myhw2",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.1brahim-2343.myHw2"
     },
     "android": {
       "adaptiveIcon": {
